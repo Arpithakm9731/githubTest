@@ -3,3 +3,5 @@ cherry
 tomatoo
 chilly
 potato
+raddish
+carrot
